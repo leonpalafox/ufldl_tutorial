@@ -1,5 +1,5 @@
 ## Stanford Unsupervised Feature Learning and Deep Learning Tutorial
-
+This s a forked version by Leon F. Palafox
 Tutorial Website: http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 
 ### Sparse Autoencoder
